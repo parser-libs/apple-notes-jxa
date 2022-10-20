@@ -2,9 +2,9 @@
   "name": "apple-notes-jxa",
   "version": "1.3.0",
   "description": "apple-notes-jxa",
-  "license": "MIT",
-  "repository": "https://github.com/abruneau/apple-notes-jxa.git",
-  "author": "Antonin Bruneau",
+  "license": "Apache-2.0",
+  "repository": "https://github.com/parser-libs/apple-notes-jxa.git",
+  "author": "Alex <alex@milyutin.work>",
   "keywords": [
     "JXA, Apple Notes, npm, node"
   ],

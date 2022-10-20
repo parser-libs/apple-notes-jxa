@@ -12,7 +12,7 @@ Here is a quick example of how this module can be used in other modules. The [Ty
 - To use in TypeScript file -
 
 ```ts
-import * as Notes from "apple-notes-jxa";
+import * as Notes from "@parser-libs/apple-notes-jxa";
 
 Notes.accounts()
   .then((accounts) => console.log(accounts));
@@ -21,7 +21,7 @@ Notes.accounts()
 - To use in a JavaScript file -
 
 ```js
-const Notes = require('apple-notes-jxa');
+const Notes = require('@parser-libs/apple-notes-jxa');
 
 Notes.accounts()
   .then((accounts) => console.log(accounts));
