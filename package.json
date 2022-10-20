@@ -4,6 +4,7 @@
   "description": "apple-notes-jxa",
   "license": "Apache-2.0",
   "repository": "https://github.com/parser-libs/apple-notes-jxa.git",
+  "homepage": "https://parser-libs.github.io/apple-notes-jxa/",
   "author": "Alex <alex@milyutin.work>",
   "keywords": [
     "JXA, Apple Notes, npm, node"
